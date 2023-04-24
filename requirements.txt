@@ -1,0 +1,4 @@
+## Required packages
+python-telegram-bot==13.7
+requests==2.26.0
+apscheduler==3.7.0
